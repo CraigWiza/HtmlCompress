@@ -1,7 +1,7 @@
 {
-    "_readme": [
+*   "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "ae3a72bd21b00f0308701be2c5cb9f78",
@@ -9358,3 +9358,4 @@
     },
     "plugin-api-version": "2.3.0"
 }
+ 
